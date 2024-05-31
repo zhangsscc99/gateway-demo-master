@@ -44,6 +44,7 @@ func doSend() {
 		if err != nil {
 			fmt.Printf("write failed , err : %v\n", err)
 			break
+			//read
 		}
 	}
 }
